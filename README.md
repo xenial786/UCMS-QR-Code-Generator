@@ -1,3 +1,4 @@
+UCMS QR Code Generator is a free QR code maker software for Windows 10 that allows users to create professional-quality QR codes instantly — without any internet connection. Designed and developed by Ajmal Majeed (UCMS University, Khanewal, Pakistan), this lightweight desktop tool is ideal for students, teachers, small businesses, and IT professionals who need a fast, secure, and offline QR code solution.
 ---
 
 ## 📦 About
