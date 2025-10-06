@@ -2,7 +2,7 @@
 <img width="970" height="500" alt="main" src="https://github.com/user-attachments/assets/1c89c40a-48ff-4d01-ac20-b473cfc455f7" />
 
 <p align="center">
-  <a href="https://github.com/xenial786/UCMS-QR-Code-Generator/archive/refs/heads/main.zip"
+  <a href="https://github.com/xenial786/UCMS-QR-Code-Generator/releases/download/1.5/ucmsqr.setup.exe"
      target="_blank" rel="noopener noreferrer">
     <img alt="Download Now" src="https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge">
   </a>
